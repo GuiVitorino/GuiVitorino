@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @GuiVitorino
-- 🌱 I’m currently learning javaScript
+# Eu sou Guilherme
+---
+## Tenho 12 anos
+## Estou estudando programação de jogos
 
+![Alt Text](https://c.tenor.com/Se5VGnpFB_8AAAAM/steve-torture-dance.gif)
 
-<!---
-GuiVitorino/GuiVitorino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+### Meu comando favorito de javaScript é 
+```javaScript
+if(vida === 0){
+    personagem.lifetime = 0
+}
+``` 
