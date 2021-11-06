@@ -1,9 +1,8 @@
-# Eu sou Guilherme
+# Olá, meu nome é Guilherme
 ---
-## Tenho 12 anos
-## Estou estudando programação de jogos
+## Estudante de programação
 
-![Alt Text](https://c.tenor.com/Se5VGnpFB_8AAAAM/steve-torture-dance.gif)
+![Alt Text](https://c.tenor.com/kqFzhmqTTaoAAAAC/annoying-dog-deltarune.gif)
 
 ---
 ### Meu comando favorito de javaScript é 
